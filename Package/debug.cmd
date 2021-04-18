@@ -1,3 +1,4 @@
+XCOPY "..\Client\bin\Debug\net5.0\vi\Oqtane.Blogs.Client.Oqtane.resources.dll" "..\..\oqtane.framework\Oqtane.Server\bin\Debug\net5.0\vi" /Y
 XCOPY "..\Client\bin\Debug\net5.0\Oqtane.Blogs.Client.Oqtane.dll" "..\..\oqtane.framework\Oqtane.Server\bin\Debug\net5.0\" /Y
 XCOPY "..\Client\bin\Debug\net5.0\Oqtane.Blogs.Client.Oqtane.pdb" "..\..\oqtane.framework\Oqtane.Server\bin\Debug\net5.0\" /Y
 XCOPY "..\Server\bin\Debug\net5.0\Oqtane.Blogs.Server.Oqtane.dll" "..\..\oqtane.framework\Oqtane.Server\bin\Debug\net5.0\" /Y
